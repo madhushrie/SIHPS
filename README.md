@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 27:11:2024
+## Register Number:24900852
+## Name:madhushree
 
 ## Problem Title 
 
@@ -13,53 +13,41 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
-1.Nearest E-Waste Facility Locator:
-Use Geocoding AI to find nearby e-waste facilities based on the user's current location.
-Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
-
-2.Virtual Assistant:
-Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
-
-3.Educational Pop-ups:
-Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
-
-4.Reward Points System:
-Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
-
-5.Real-time Analytics Dashboard:
-Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
-
-
-
+1.Alumni Registration: Easy registration for alumni to join the association, update profiles, and connect with peers and the institution. 2.Donation Portal: Secure system for alumni to donate to the college's initiatives. 3.Networking Hub: Sections to connect alumni based on shared interests, profession, and geography. 4.Job Portal: Allows alumni to explore job opportunities, post job openings, and network with potential employers. 5.Alumni Directory: A searchable directory of alumni based on criteria such as graduation year, field of study, industry, location, etc. 6.Success Story Tracking: Showcase alumni achievements and inspire current students. 7.Events and Reunions: Announcements, registrations, and management for alumni events, reunions, workshops, and professional sessions. 8.Feedback and Surveys: Allows alumni to provide feedback and participate in surveys to improve the association.
 
 
 
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+![DFD Second Level_4](https://github.com/user-attachments/assets/02e3c34e-fca1-4f67-b8af-c219ef6a2a4c)
 
-## Use Cases
-![alt text](10-2.jpg)
+
+## Use Case
+
+![uml](https://github.com/user-attachments/assets/dc2fe7d8-0c09-41d6-9748-e3f782fbbc6d)
 
 ## Technology Stack
-React.js
+Frontend: React.js, React Native
 
-Node.js 
+Backend: Node.js, Express.js
 
-PostgreSQL
+Database: MongoDB / PostgreSQL
 
-Google maps
+Authentication: JWT
 
-Firebox Authenticator
-
-Git , Postman or Insomnia
+Payment Gateway: Razorpay / Stripe
 
 ## Dependencies
 
-Mapping service- 10 days
+Frontend Development: 15 days
 
-Data collection- 10 days
+Backend Development: 20 days
 
-budget- rs.50,000
+Database Setup: 10 days
 
+Testing and Deployment: 15 days
+
+Budget:
+
+Rs. 50,000
